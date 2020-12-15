@@ -1,2 +1,2 @@
 # Detect-SolarWinds-Orion
-Powershell script to detect devices with SolarWinds Orion on a domain
+Powershell script to identify devices with SolarWinds Orion on a domain for vulnerability remediation, risk analysis etc.
